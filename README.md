@@ -43,7 +43,7 @@ x
 [x] ~~Sticky header on amortization table~~  
 [x] ~~Bootstrap 5 tooltips for help~~  
 [x] ~~Font Awesome icons for tooltips~~  
-[ ] Pytest file for unit and functional testing  
+[x] ~~Pytest file for unit and functional testing~~  
 [ ] Custom GitHub Action workflow file for CI/CD  
 [ ] Client side validation  
 [ ] Server side validation  
