@@ -88,6 +88,6 @@ jobs:
         uses: azure/webapps-deploy@v2
         id: deploy-to-webapp
         with:
-          app-name: "colbert-loan"
+          app-name: "astatler-loan"
           slot-name: "Production"
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D4F4CFE8F5B543078E119DADBACE2AAD }}
